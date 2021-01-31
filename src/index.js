@@ -10,9 +10,9 @@ import {DataProvider} from './context/Context';
 ReactDOM.render(
   <BrowserRouter>
   <DataProvider>
-  <React.StrictMode>
+  <React.Fragment>
     <App />
-  </React.StrictMode>
+    </React.Fragment>
   </DataProvider>
   </BrowserRouter>,
   document.getElementById('root')
