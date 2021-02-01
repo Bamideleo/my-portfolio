@@ -25,7 +25,7 @@ function Navbar() {
                         <div className="header-container">
                             <nav>
                                 <div className="logoBtn">
-                                   <Link to="/" onClick={handleCloseSideNav} onClick={()=>ScrollToElement("Home")}><img src={logo} alt="Logo"/></Link>
+                                   <Link to="/" onClick={handleCloseSideNav}><img src={logo} alt="Logo"/></Link>
                                    <div className="btn" onClick={handleOpenSideNav}>
                                        <div className="bar"></div>
                                        <div className="bar"></div>
