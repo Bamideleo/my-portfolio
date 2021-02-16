@@ -18,7 +18,7 @@ function Header() {
                                   <h1>hello i am bamidele</h1>
                                   </Bounce>
                                   <Bounce right delay={2000} duration={2000} cascade>
-                                  <h2>welcome to my portfilo</h2>
+                                  <h2>welcome to my portfolio</h2>
                                   </Bounce>
                                   <Bounce top delay={4000} duration={2000}>
                                   <a href="mailto:oluwabukolaoluwaseun@gmail.com" className="contactBtn ">contact</a>

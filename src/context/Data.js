@@ -159,23 +159,23 @@ export const Projects=[
         gitlink:'https://github.com/Bamideleo/bamz-resort ',
         img:'/projectimg/defaultBcg.jpeg',
         title:'Hotel Resort',
-        btnTitle:'portfilo'
+        btnTitle:'portfolio'
     },
     {
         id:2,
-        extlink:'https://bamz-resort.netlify.app/',
-        gitlink:'https://github.com/Bamideleo/bamz-resort ',
-        img:'/projectimg/img-5.jpg',
-        title:'Hotel Resort',
-        btnTitle:'portfilo'
+        extlink:'https://safe-ride.netlify.app/#/',
+        gitlink:'https://github.com/Bamideleo/safe-rider',
+        img:'/projectimg/safe.png',
+        title:'Safe Ride',
+        btnTitle:'portfolio'
     },
     {
         id:3,
-        extlink:'https://bamz-resort.netlify.app/',
-        gitlink:'https://github.com/Bamideleo/bamz-resort ',
-        img:'/projectimg/room-4.jpeg',
-        title:'Hotel Resort',
-        btnTitle:'portfilo'
+        extlink:'https://my-protfilio.netlify.app/',
+        gitlink:'https://github.com/Bamideleo/my-portfolio',
+        img:'/projectimg/logo4.png',
+        title:'My Portfolio',
+        btnTitle:'portfolio'
     },
     {
         id:4,
@@ -191,7 +191,7 @@ export const Projects=[
         gitlink:'https://github.com/Bamideleo/bamz-resort ',
         img:'/projectimg/details-2.jpeg',
         title:'Hotel Resort',
-        btnTitle:'portfilo'
+        btnTitle:'portfolio'
     },
     {
         id:6,
@@ -199,6 +199,6 @@ export const Projects=[
         gitlink:'https://github.com/Bamideleo/bamz-resort ',
         img:'/projectimg/room-4.jpeg',
         title:'Hotel Resort',
-        btnTitle:'portfilo'
+        btnTitle:'portfolio'
     },
 ]
