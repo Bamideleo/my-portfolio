@@ -190,7 +190,7 @@ export const Projects=[
     {
         id:5,
         extlink:'https://freebiecashapp.com/',
-        gitlink:'https://github.com/Bamideleo/bamz-resort ',
+        gitlink:'',
         img:'/projectimg/frebiecash.PNG',
         title:'Freebiecashapp',
         btnTitle:'portfolio',
@@ -200,7 +200,7 @@ export const Projects=[
     {
         id:6,
         extlink:'http://bamz-resort.netlify.app/',
-        gitlink:'https://github.com/Bamideleo/bamz-resort ',
+        gitlink:'',
         img:'/projectimg/room-4.jpeg',
         title:'Hotel Resort',
         btnTitle:'portfolio'
