@@ -505,8 +505,47 @@ background: rgb(39, 36, 36);
     background: rgba(0,0,0,0.4);
     
 }
+
+.single-projects h4{
+    font-size: 20px;
+    color: #fff;
+    position: absolute;
+    top: -50px;
+    text-align: center;
+    left: 0;
+    right: 0;
+    display: block;
+    margin: 0;
+    padding: 10px;
+    transition: all 0.5s ease-in-out;
+    background: rgba(0,0,0,0.4);
+    
+}
+.single-projects h5{
+    font-size: 20px;
+    color: #fff;
+    position: absolute;
+    top: -50px;
+    text-align: center;
+    left: 0;
+    right: 0;
+    display: block;
+    margin: 0;
+    padding: 10px;
+    transition: all 0.5s ease-in-out;
+    background: rgba(0,0,0,0.4);
+    
+}
+
 .single-projects:hover p{
     top: 0;
+}
+
+.single-projects:hover h4{
+    top: 45px;
+}
+.single-projects:hover h5{
+    top: 84px;
 }
 .item .projectBtn{
     font-size: 18px;
