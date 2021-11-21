@@ -543,11 +543,12 @@ background: rgb(39, 36, 36);
 }
 
 .single-projects:hover h5{
-    top: 45px;
+     top: 84px;
+    
 }
 
 .single-projects:hover h5{
-    top: 84px;
+     top: 45px;
 }
 .item .projectBtn{
     font-size: 18px;
