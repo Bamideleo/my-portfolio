@@ -1,7 +1,7 @@
 import React from 'react';
 import Title from './Title';
 import {DataConsumer} from '../context/Context';
-import MyPd from  '../images/mypassport.png'
+import MyPd from  '../images/mypassport2.png'
 
 
 function About() {
