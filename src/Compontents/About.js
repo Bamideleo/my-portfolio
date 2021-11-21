@@ -30,10 +30,10 @@ function About() {
             </div>
             <div className="address">
                 <p><span className={setClass?"dark-mode-orange":""}>address:</span> 
-                60, Saforiti/Jekayinfa street, Orogun, UI/Ojoo road, Ibadan, Oyo State.</p>
+                 60, Saforiti/Jekayinfa street, Orogun, UI/Ojoo road, Ibadan, Oyo State.</p>
             </div>
             <div className="email">
-                <p><span className={setClass?"dark-mode-orange":""}>email:</span><a href="mailto:oluwabukolaoluwaseun@gmail.com">
+                <p><span className={setClass?"dark-mode-orange":""}>email:</span> <a href="mailto:oluwabukolaoluwaseun@gmail.com">
                      oluwabukolaoluwaseun@gmail.com</a></p>
             </div>
             <div className="phone">
