@@ -179,19 +179,23 @@ export const Projects=[
     },
     {
         id:4,
-        extlink:'https://bamz-resort.netlify.app/',
+         extlink:'https://myincomeengine.com/',
         gitlink:'https://github.com/Bamideleo/bamz-resort ',
-        img:'/projectimg/details-3.jpeg',
-        title:'Hotel Resort',
-        btnTitle:'portfilo'
+        img:'/projectimg/incomengine.PNG',
+        title:'Income Engine',
+        btnTitle:'portfilo',
+        username:'oluwabukolaoluwaseun@gmail.com',
+        password: 'Inc0m3-3ng!ne'
     },
     {
         id:5,
-        extlink:'https://bamz-resort.netlify.app/',
+        extlink:'https://freebiecashapp.com/',
         gitlink:'https://github.com/Bamideleo/bamz-resort ',
-        img:'/projectimg/details-2.jpeg',
-        title:'Hotel Resort',
-        btnTitle:'portfolio'
+        img:'/projectimg/frebiecash.PNG',
+        title:'Freebiecashapp',
+        btnTitle:'portfolio',
+        username:'oluwabukolaoluwaseun@gmail.com',
+        password: 'bamidele123'
     },
     {
         id:6,
