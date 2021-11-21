@@ -19,7 +19,7 @@ function Project() {
                                 <img src={item.img} alt="img"/>
                                 </a>
                                 <p>{item.title}</p>
-                                 <h4>Username: {item.username}</h4>
+                                 <p>Username: {item.username}</p>
                                  <h5>Password: {item.password}</h5>
                                <div className="item">
                                    <div className="itemsGit">
