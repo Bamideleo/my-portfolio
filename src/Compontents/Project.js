@@ -19,8 +19,8 @@ function Project() {
                                 <img src={item.img} alt="img"/>
                                 </a>
                                 <p>{item.title}</p>
-                                 <h5>Password: {item.password}</h5>
                                  <h4>Username: {item.username}</h4>
+                                 <h5>Password: {item.password}</h5>
                                <div className="item">
                                    <div className="itemsGit">
                                    <a href={item.gitlink} target="_blank" rel="noopener noreferrer"><i className="fab fa-github-square fa-2x"></i></a>
