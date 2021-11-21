@@ -21,7 +21,12 @@ function Project() {
                                 <p>{item.title}</p>
                                  <h5>Password: {item.password}</h5>
                                <div className="item">
-                                 
+                                   <div className="itemsGit">
+                                   <a href={item.gitlink} target="_blank" rel="noopener noreferrer"><i className="fab fa-github-square fa-2x"></i></a>
+                                   </div>
+                                <button className="projectBtn">
+                                    <a href={item.extlink} target="_blank" rel="noopener noreferrer">{item.btnTitle}</a>
+                                </button>
                                </div>
                             </div>
                         )
