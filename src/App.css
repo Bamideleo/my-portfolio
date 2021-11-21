@@ -526,6 +526,25 @@ background: rgb(39, 36, 36);
     top: 0;
 }
 
+.single-projects h4{
+    font-size: 20px;
+    color: #fff;
+    position: absolute;
+    top: -50px;
+    text-align: left;
+    left: 0;
+    right: 0;
+    display: block;
+    margin: 0;
+    padding: 10px;
+    transition: all 0.5s ease-in-out;
+    background: rgba(0,0,0,0.4);
+    
+}
+
+.single-projects:hover h5{
+    top: 45px;
+}
 
 .single-projects:hover h5{
     top: 84px;
