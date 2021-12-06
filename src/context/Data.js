@@ -109,7 +109,7 @@ export const Devskills=[
         id:13,
         title:'NODE JS',
         percent:'thirty',
-        number:'30%'
+        number:'50%'
     },
     {
         id:14,
