@@ -181,10 +181,10 @@ export const Projects=[
         id:4,
         extlink:'https://mycryptopayz.com/admin',
         gitlink:'',
-        img:'/projectimg/room-4.jpeg',
+        img:'/projectimg/cryptopayze.PNG',
         title:'CryptoPayz',
         username:'oluwabukolaoluwaseun@gmail.com',
-        password: 'bamidele123',
+        password: 'bamidele',
         btnTitle:'portfolio'
     },
     {
