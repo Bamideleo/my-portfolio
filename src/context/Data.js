@@ -179,13 +179,13 @@ export const Projects=[
     },
     {
         id:4,
-         extlink:'https://myincomeengine.com/',
-        gitlink:'https://github.com/Bamideleo/bamz-resort ',
-        img:'/projectimg/incomengine.PNG',
-        title:'Income Engine',
-        btnTitle:'portfilo',
+        extlink:'https://mycryptopayz.com/admin',
+        gitlink:'',
+        img:'/projectimg/room-4.jpeg',
+        title:'CryptoPayz',
         username:'oluwabukolaoluwaseun@gmail.com',
-        password: 'Inc0m3-3ng!ne'
+        password: 'bamidele123',
+        btnTitle:'portfolio'
     },
     {
         id:5,
@@ -199,10 +199,12 @@ export const Projects=[
     },
     {
         id:6,
-        extlink:'http://bamz-resort.netlify.app/',
-        gitlink:'',
-        img:'/projectimg/room-4.jpeg',
-        title:'Hotel Resort',
-        btnTitle:'portfolio'
+        extlink:'https://myincomeengine.com/',
+        gitlink:'https://github.com/Bamideleo/bamz-resort ',
+        img:'/projectimg/incomengine.PNG',
+        title:'Income Engine',
+        btnTitle:'portfilo',
+        username:'oluwabukolaoluwaseun@gmail.com',
+        password: 'Inc0m3-3ng!ne'
     },
 ]
