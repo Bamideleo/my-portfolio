@@ -200,6 +200,58 @@ export const Projects=[
     {
         id:6,
         extlink:'https://myincomeengine.com/',
+        gitlink:'',
+        img:'/projectimg/incomengine.PNG',
+        title:'Income Engine',
+        btnTitle:'portfilo',
+        username:'oluwabukolaoluwaseun@gmail.com',
+        password: 'Inc0m3-3ng!ne'
+    },
+     {
+        id:7,
+        extlink:'https://myincomeengine.com/',
+        gitlink:'',
+        img:'/projectimg/incomengine.PNG',
+        title:'Income Engine',
+        btnTitle:'portfilo',
+        username:'oluwabukolaoluwaseun@gmail.com',
+        password: 'Inc0m3-3ng!ne'
+    },
+     {
+        id:8,
+        extlink:'https://myincomeengine.com/',
+        gitlink:'https://github.com/Bamideleo/bamz-resort ',
+        img:'/projectimg/incomengine.PNG',
+        title:'Income Engine',
+        btnTitle:'portfilo',
+        username:'oluwabukolaoluwaseun@gmail.com',
+        password: 'Inc0m3-3ng!ne'
+    },
+     {
+        id:9,
+        extlink:'https://myprotoapp.com/',
+        gitlink:'',
+        img:'/projectimg/incomengine.PNG',
+        title:'Income Engine',
+        btnTitle:'portfilo',
+        username:'oluwabukolaoluwaseun@gmail.com',
+        password: 'Inc0m3-3ng!ne'
+    },
+    
+     {
+        id:10,
+        extlink:'https://myincomeengine.com/',
+        gitlink:'https://github.com/Bamideleo/bamz-resort ',
+        img:'/projectimg/incomengine.PNG',
+        title:'Income Engine',
+        btnTitle:'portfilo',
+        username:'oluwabukolaoluwaseun@gmail.com',
+        password: 'Inc0m3-3ng!ne'
+    },
+    
+     {
+        id:11,
+        extlink:'https://myincomeengine.com/',
         gitlink:'https://github.com/Bamideleo/bamz-resort ',
         img:'/projectimg/incomengine.PNG',
         title:'Income Engine',
