@@ -48,14 +48,14 @@ export const Devskills=[
     {
         id:3,
         title:'JAVASCRIPT',
-        percent:'eighty',
-        number:'80%'
+        percent:'ninety',
+        number:'90%'
     },
     {
         id:4,
         title:'REACT',
-        percent:'eighty',
-        number:'80%'
+        percent:'ninety',
+        number:'90%'
     },
     {
         id:5,
@@ -84,14 +84,14 @@ export const Devskills=[
     {
         id:9,
         title:'CODEIGNITER',
-        percent:'eighty',
-        number:'80%'
+        percent:'ninety',
+        number:'90%'
     },
     {
         id:10,
         title:'PYHTON',
-        percent:'sixty',
-        number:'60%'
+        percent:'seventy',
+        number:'70%'
     },
     {
         id:11,
@@ -102,26 +102,26 @@ export const Devskills=[
     {
         id:12,
         title:'BOOTSTRAP',
-        percent:'eighty',
-        number:'80%'
+        percent:'ninety',
+        number:'90%'
     },
     {
         id:13,
         title:'NODE JS',
-        percent:'thirty',
-        number:'50%'
-    },
-    {
-        id:14,
-        title:'MYSQL',
         percent:'seventy',
         number:'70%'
     },
     {
+        id:14,
+        title:'MYSQL',
+        percent:'ninety',
+        number:'90%'
+    },
+    {
         id:15,
         title:'LINXU',
-        percent:'sixty',
-        number:'60%'
+        percent:'seventy',
+        number:'70%'
     },
 ]
 // Physics skils section
