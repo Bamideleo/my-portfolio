@@ -199,13 +199,13 @@ export const Projects=[
     },
     {
         id:6,
-        extlink:'https://myincomeengine.com/',
+        extlink:'https://mypcommerce.com/',
         gitlink:'',
         img:'/projectimg/incomengine.PNG',
-        title:'Income Engine',
+        title:'pcommerce',
         btnTitle:'portfilo',
         username:'oluwabukolaoluwaseun@gmail.com',
-        password: 'Inc0m3-3ng!ne'
+        password: 'bamidele'
     },
      {
         id:7,
