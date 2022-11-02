@@ -201,7 +201,7 @@ export const Projects=[
         id:6,
         extlink:'https://mypcommerce.com/',
         gitlink:'',
-        img:'/projectimg/incomengine.PNG',
+        img:'/projectimg/pcom.PNG',
         title:'pcommerce',
         btnTitle:'portfilo',
         username:'oluwabukolaoluwaseun@gmail.com',
