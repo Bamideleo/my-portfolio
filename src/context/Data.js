@@ -49,13 +49,13 @@ export const Devskills=[
         id:3,
         title:'JAVASCRIPT',
         percent:'ninety',
-        number:'90%'
+        number:'70%'
     },
     {
         id:4,
         title:'REACT',
         percent:'ninety',
-        number:'90%'
+        number:'60%'
     },
     {
         id:5,
@@ -73,19 +73,19 @@ export const Devskills=[
         id:7,
         title:'PHP',
         percent:'ninety',
-        number:'90%'
+        number:'70%'
     },
     {
         id:8,
         title:'LARAVEL',
         percent:'ninety',
-        number:'90%'
+        number:'70%'
     },
     {
         id:9,
         title:'CODEIGNITER',
         percent:'ninety',
-        number:'90%'
+        number:'70%'
     },
     {
         id:10,
@@ -109,19 +109,19 @@ export const Devskills=[
         id:13,
         title:'NODE JS',
         percent:'seventy',
-        number:'70%'
+        number:'60%'
     },
     {
         id:14,
         title:'MYSQL',
         percent:'ninety',
-        number:'90%'
+        number:'70%'
     },
     {
         id:15,
         title:'LINXU',
         percent:'seventy',
-        number:'70%'
+        number:'50%'
     },
 ]
 // Physics skils section
@@ -155,19 +155,23 @@ export const Physics=[
 export const Projects=[
     {
         id:1,
-        extlink:'https://bamz-resort.netlify.app/',
-        gitlink:'https://github.com/Bamideleo/bamz-resort ',
+        extlink:'https://mycoinzapp.com/admin/',
+        gitlink:'https://github.com/Bamideleo/',
         img:'/projectimg/defaultBcg.jpeg',
-        title:'Hotel Resort',
-        btnTitle:'portfolio'
+        title:'Coinz',
+        btnTitle:'portfolio',
+        username:'seun@gmail.com',
+        password: 'bami@seun'
     },
     {
         id:2,
-        extlink:'https://safe-ride.netlify.app/#/',
-        gitlink:'https://github.com/Bamideleo/safe-rider',
+        extlink:'https://mybrainboxapp.com/',
+        gitlink:'https://github.com/Bamideleo/',
         img:'/projectimg/safe.png',
-        title:'Safe Ride',
-        btnTitle:'portfolio'
+        title:'Brainbox',
+        btnTitle:'portfolio',
+        username:'oluwabukolaoluwaseun@gmail.com',
+        password: 'bami@seun'
     },
     {
         id:3,
@@ -178,59 +182,33 @@ export const Projects=[
         btnTitle:'portfolio'
     },
     {
-        id:4,
-        extlink:'https://mycryptopayz.com/admin',
-        gitlink:'',
-        img:'/projectimg/cryptopayze.PNG',
-        title:'CryptoPayz',
-        username:'oluwabukolaoluwaseun@gmail.com',
-        password: 'bamidele',
+         id:4,
+        extlink:'https://bamz-resort.netlify.app/',
+        gitlink:'https://github.com/Bamideleo/bamz-resort ',
+        img:'/projectimg/defaultBcg.jpeg',
+        title:'Hotel Resort',
         btnTitle:'portfolio'
     },
     {
         id:5,
-        extlink:'https://freebiecashapp.com/',
-        gitlink:'',
-        img:'/projectimg/frebiecash.PNG',
-        title:'Freebiecashapp',
-        btnTitle:'portfolio',
-        username:'oluwabukolaoluwaseun@gmail.com',
-        password: 'bamidele123'
+        extlink:'https://safe-ride.netlify.app/#/',
+        gitlink:'https://github.com/Bamideleo/safe-rider',
+        img:'/projectimg/safe.png',
+        title:'Safe Ride',
+        btnTitle:'portfolio'
     },
     {
         id:6,
-        extlink:'https://mypcommerce.com/',
-        gitlink:'',
-        img:'/projectimg/pcom.PNG',
-        title:'pcommerce',
-        btnTitle:'portfilo',
-        username:'oluwabukolaoluwaseun@gmail.com',
-        password: 'bamidele'
+        extlink:'https://my-protfilio.netlify.app/',
+        gitlink:'https://github.com/Bamideleo/my-portfolio',
+        img:'/projectimg/logo4.png',
+        title:'My Portfolio',
+        btnTitle:'portfolio'
     },
      {
         id:7,
-        extlink:'https://tvpayz.com/',
-        gitlink:'',
-        img:'/projectimg/tvpays.PNG',
-        title:'Tvpayz',
-        btnTitle:'portfilo',
-        username:'oluwabukolaoluwaseun@gmail.com',
-        password: 'bamidele'
-    },
-     {
-        id:8,
-        extlink:'https://tubepayz.com/',
-        gitlink:'',
-        img:'/projectimg/tubepays.PNG',
-        title:'TubePayz',
-        btnTitle:'portfilo',
-        username:'oluwabukolaoluwaseun@gmail.com',
-        password: 'bamidele'
-    },
-     {
-        id:9,
         extlink:'https://myprotoapp.com/',
-        gitlink:'',
+        gitlink:'https://github.com/Bamideleo/',
         img:'/projectimg/protron-1.PNG',
         title:'Proto',
         btnTitle:'portfilo',
@@ -239,9 +217,9 @@ export const Projects=[
     },
     
      {
-        id:10,
+        id:8,
         extlink:'https://myswirlapp.com/',
-        gitlink:'https://github.com/Bamideleo/bamz-resort ',
+        gitlink:'https://github.com/Bamideleo/',
         img:'/projectimg/swirl0.PNG',
         title:'Swirl',
         btnTitle:'portfilo',
