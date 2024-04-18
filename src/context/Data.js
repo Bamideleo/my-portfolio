@@ -157,7 +157,7 @@ export const Projects=[
         id:1,
         extlink:'https://mycoinzapp.com/admin/',
         gitlink:'https://github.com/Bamideleo/',
-        img:'/projectimg/defaultBcg.jpeg',
+        img:'/projectimg/coinz.PNG',
         title:'Coinz',
         btnTitle:'portfolio',
         username:'seun@gmail.com',
@@ -167,7 +167,7 @@ export const Projects=[
         id:2,
         extlink:'https://mybrainboxapp.com/',
         gitlink:'https://github.com/Bamideleo/',
-        img:'/projectimg/safe.png',
+        img:'/projectimg/brainbox.PNG',
         title:'Brainbox',
         btnTitle:'portfolio',
         username:'oluwabukolaoluwaseun@gmail.com',
@@ -177,9 +177,11 @@ export const Projects=[
         id:3,
         extlink:'https://my-protfilio.netlify.app/',
         gitlink:'https://github.com/Bamideleo/my-portfolio',
-        img:'/projectimg/logo4.png',
-        title:'My Portfolio',
-        btnTitle:'portfolio'
+        img:'/projectimg/voxai.PNG',
+        title:'Voxai',
+        btnTitle:'portfolio',
+        username:'oluwabukolaoluwaseun@gmail.com',
+        password: 'voxai@111'
     },
     {
          id:4,
