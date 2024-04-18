@@ -33,8 +33,8 @@ function About() {
                  60, Saforiti/Jekayinfa street, Orogun, UI/Ojoo road, Ibadan, Oyo State.</p>
             </div>
             <div className="email">
-                <p><span className={setClass?"dark-mode-orange":""}>email:</span> <a href="mailto:oluwabukolaoluwaseun@gmail.com">
-                     oluwabukolaoluwaseun@gmail.com</a></p>
+                <p><span className={setClass?"dark-mode-orange":""}>email:</span> <a href="mailto:seunbamidele92@gmail.com">
+                     seunbamidele92@gmail.com</a></p>
             </div>
             <div className="phone">
                 <p><span className={setClass?"dark-mode-orange":""}>mobile no:</span > 08137991330</p>
