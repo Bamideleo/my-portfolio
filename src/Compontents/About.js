@@ -40,7 +40,7 @@ function About() {
                 <p><span className={setClass?"dark-mode-orange":""}>mobile no:</span > 08137991330</p>
             </div>
             <div className="website">
-                <p><span className={setClass?"dark-mode-orange":""}>website:</span> www.bamzy.com(under construction)</p>
+                // <p><span className={setClass?"dark-mode-orange":""}>website:</span> www.bamzy.com(under construction)</p>
             </div>
             <div className="social-media">
                <a href="linkedin.com/in/bamidele-oluwaseun-a724b9192" target="_blank" rel="noopener noreferce">
